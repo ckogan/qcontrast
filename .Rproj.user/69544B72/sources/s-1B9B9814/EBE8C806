@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562802540820.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3226072133",
+    "id" : "EBE8C806",
+    "lastKnownWriteTime" : 1562805150,
+    "last_content_update" : 1562805150984,
+    "path" : "C:/Users/kogan/OneDrive - Washington State University (email.wsu.edu)/wsu-code-repos/packages/qcontrast/R/qcontrast.R",
+    "project_path" : "R/qcontrast.R",
+    "properties" : {
+        "cursorPosition" : "39,0",
+        "scrollLine" : "34",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

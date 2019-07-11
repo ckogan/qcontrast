@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562802490045.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2450337586",
+    "id" : "E1669F35",
+    "lastKnownWriteTime" : 1562802521,
+    "last_content_update" : 1562802521613,
+    "path" : "C:/Users/kogan/OneDrive - Washington State University (email.wsu.edu)/wsu-code-repos/packages/qcontrast/.gitignore",
+    "project_path" : ".gitignore",
+    "properties" : {
+        "cursorPosition" : "2,0",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "gitignore"
+}
